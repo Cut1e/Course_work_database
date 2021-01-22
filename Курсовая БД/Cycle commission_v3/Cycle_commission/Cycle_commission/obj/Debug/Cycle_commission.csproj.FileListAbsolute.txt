@@ -1,0 +1,346 @@
+D:\project visual\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.exe.config
+D:\project visual\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.exe
+D:\project visual\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.pdb
+D:\project visual\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Base_Selection.resources
+D:\project visual\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Properties.Resources.resources
+D:\project visual\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csproj.GenerateResource.cache
+D:\project visual\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csproj.CopyComplete
+D:\project visual\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.exe
+D:\project visual\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.pdb
+D:\project visual\Cycle_commission\Cycle_commission\bin\Debug\VisualReactiveWinForms.dll
+D:\project visual\Cycle_commission\Cycle_commission\bin\Debug\VisualReactiveWinForms.xml
+D:\project visual\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Cycle_selection.resources
+D:\project visual\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.SubMenu.resources
+D:\project visual\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_additional_event.resources
+D:\project visual\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_discipline.resources
+D:\project visual\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_type_of_event.resources
+D:\project visual\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_goals.resources
+D:\project visual\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_years.resources
+D:\project visual\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_cabinets.resources
+D:\project visual\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_teachers.resources
+D:\project visual\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csprojAssemblyReference.cache
+D:\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.exe.config
+D:\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.exe
+D:\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.pdb
+D:\Cycle_commission\Cycle_commission\bin\Debug\VisualReactiveWinForms.dll
+D:\Cycle_commission\Cycle_commission\bin\Debug\VisualReactiveWinForms.xml
+D:\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csprojAssemblyReference.cache
+D:\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_additional_event.resources
+D:\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_cabinets.resources
+D:\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_discipline.resources
+D:\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_goals.resources
+D:\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_teachers.resources
+D:\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_type_of_event.resources
+D:\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_years.resources
+D:\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Base_Selection.resources
+D:\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Cycle_selection.resources
+D:\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Properties.Resources.resources
+D:\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.SubMenu.resources
+D:\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csproj.GenerateResource.cache
+D:\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csproj.CopyComplete
+D:\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.exe
+D:\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.pdb
+D:\Cycle commission\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.exe.config
+D:\Cycle commission\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.exe
+D:\Cycle commission\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.pdb
+D:\Cycle commission\Cycle_commission\Cycle_commission\bin\Debug\VisualReactiveWinForms.dll
+D:\Cycle commission\Cycle_commission\Cycle_commission\bin\Debug\VisualReactiveWinForms.xml
+D:\Cycle commission\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csprojAssemblyReference.cache
+D:\Cycle commission\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_additional_event.resources
+D:\Cycle commission\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_cabinets.resources
+D:\Cycle commission\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_discipline.resources
+D:\Cycle commission\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_goals.resources
+D:\Cycle commission\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_teachers.resources
+D:\Cycle commission\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_type_of_event.resources
+D:\Cycle commission\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_years.resources
+D:\Cycle commission\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Base_Selection.resources
+D:\Cycle commission\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Cycle_selection.resources
+D:\Cycle commission\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Properties.Resources.resources
+D:\Cycle commission\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.SubMenu.resources
+D:\Cycle commission\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csproj.GenerateResource.cache
+D:\Cycle commission\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csproj.CopyComplete
+D:\Cycle commission\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.exe
+D:\Cycle commission\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.pdb
+D:\Cycle commission\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_category.resources
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.exe.config
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.exe
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.pdb
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\bin\Debug\VisualReactiveWinForms.dll
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\bin\Debug\VisualReactiveWinForms.xml
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csprojAssemblyReference.cache
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_additional_event.resources
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_cabinets.resources
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_discipline.resources
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_goals.resources
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_category.resources
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_teachers.resources
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_type_of_event.resources
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_years.resources
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Base_Selection.resources
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Cycle_selection.resources
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Properties.Resources.resources
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.SubMenu.resources
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csproj.GenerateResource.cache
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csproj.CoreCompileInputs.cache
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csproj.CopyComplete
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.exe
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.pdb
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_cycle.resources
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_event.resources
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Inquries_event.resources
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_responsible.resources
+D:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Reports.resources
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.exe.config
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.exe
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.pdb
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\bin\Debug\VisualReactiveWinForms.dll
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\bin\Debug\VisualReactiveWinForms.xml
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csprojResolveAssemblyReference.cache
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_additional_event.resources
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_cabinets.resources
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_cycle.resources
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_discipline.resources
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_event.resources
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_goals.resources
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_category.resources
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_responsible.resources
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_teachers.resources
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_type_of_event.resources
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_years.resources
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Base_Selection.resources
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Cycle_selection.resources
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Inquries_event.resources
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Properties.Resources.resources
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Reports.resources
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.SubMenu.resources
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csproj.GenerateResource.Cache
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\RdlCompile.cache
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\RdlCompile.compiled
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.exe
+E:\Cycle commission_v1\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.pdb
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.exe.config
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.exe
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.pdb
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csprojResolveAssemblyReference.cache
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_additional_event.resources
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_cabinets.resources
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_cycle.resources
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_discipline.resources
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_event.resources
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_goals.resources
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_category.resources
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_responsible.resources
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_teachers.resources
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_type_of_event.resources
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_years.resources
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Base_Selection.resources
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Cycle_selection.resources
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Inquries_event.resources
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Properties.Resources.resources
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Reports.resources
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.SubMenu.resources
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csproj.GenerateResource.Cache
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\obj\Debug\RdlCompile.cache
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\obj\Debug\RdlCompile.compiled
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.exe
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.pdb
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\bin\Debug\VisualReactiveWinForms.dll
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\bin\Debug\VisualReactiveWinForms.xml
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csproj.Cycle_commission.exe.config
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Cycle commission_v2\Cycle_commission\Cycle_commission\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.exe.config
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.exe
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.pdb
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.exe
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.pdb
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\VisualReactiveWinForms.dll
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\VisualReactiveWinForms.xml
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csprojResolveAssemblyReference.cache
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csproj.Cycle_commission.exe.config
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_additional_event.resources
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_cabinets.resources
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_cycle.resources
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_discipline.resources
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_event.resources
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_goals.resources
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_category.resources
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_responsible.resources
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_teachers.resources
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_type_of_event.resources
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_years.resources
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Base_Selection.resources
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Cycle_selection.resources
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Inquries_event.resources
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Properties.Resources.resources
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Reports.resources
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.SubMenu.resources
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csproj.GenerateResource.Cache
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\RdlCompile.cache
+C:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\RdlCompile.compiled
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.exe.config
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.exe
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.pdb
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.exe
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.pdb
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\VisualReactiveWinForms.dll
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\VisualReactiveWinForms.xml
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csprojResolveAssemblyReference.cache
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csproj.Cycle_commission.exe.config
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_additional_event.resources
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_cabinets.resources
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_cycle.resources
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_discipline.resources
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_event.resources
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_goals.resources
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_category.resources
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_responsible.resources
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_teachers.resources
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_type_of_event.resources
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_years.resources
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Base_Selection.resources
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Cycle_selection.resources
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Inquries_event.resources
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Properties.Resources.resources
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Reports.resources
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.SubMenu.resources
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csproj.GenerateResource.Cache
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\RdlCompile.cache
+G:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\RdlCompile.compiled
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.exe.config
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.exe
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.pdb
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.exe
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.pdb
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\VisualReactiveWinForms.dll
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\VisualReactiveWinForms.xml
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_additional_event.resources
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_cabinets.resources
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_cycle.resources
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_discipline.resources
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_event.resources
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_goals.resources
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_category.resources
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_responsible.resources
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_teachers.resources
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_type_of_event.resources
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_years.resources
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Base_Selection.resources
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Cycle_selection.resources
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Inquries_event.resources
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Properties.Resources.resources
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Reports.resources
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.SubMenu.resources
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csproj.GenerateResource.Cache
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\RdlCompile.cache
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\RdlCompile.compiled
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csprojAssemblyReference.cache
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.exe.config
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csproj.CoreCompileInputs.cache
+D:\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csproj.CopyComplete
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.exe.config
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.exe
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Cycle_commission.pdb
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\VisualReactiveWinForms.dll
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\VisualReactiveWinForms.xml
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csprojAssemblyReference.cache
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.exe.config
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_additional_event.resources
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_cabinets.resources
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_cycle.resources
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_discipline.resources
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_event.resources
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_goals.resources
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_category.resources
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_responsible.resources
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_teachers.resources
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_type_of_event.resources
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Add_years.resources
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Base_Selection.resources
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Cycle_selection.resources
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Inquries_event.resources
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Properties.Resources.resources
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.Reports.resources
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.SubMenu.resources
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csproj.GenerateResource.cache
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\RdlCompile.cache
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\RdlCompile.compiled
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csproj.CoreCompileInputs.cache
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csproj.CopyComplete
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.exe
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.pdb
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csprojResolveAssemblyReference.cache
+D:\Курсовая БД\Cycle commission_v3\Cycle_commission\Cycle_commission\obj\Debug\Cycle_commission.csproj.Cycle_commission.exe.config

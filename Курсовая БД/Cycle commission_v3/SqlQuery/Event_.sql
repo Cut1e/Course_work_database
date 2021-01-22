@@ -1,0 +1,10 @@
+create table Event_(id_event_ int not null primary key identity(1,1) ,
+date_if_planned date,
+actual_date date,
+description_of_event varchar(500),
+performed bit not null,
+id_discipline int foreign key references Discipline(id_discipline)on delete cascade on update cascade not null,
+id_years int foreign key references Years(id_years)on delete cascade on update cascade not null,
+id_cycle int foreign key references Cycle(id_cycle)on delete cascade on update cascade not null,
+id_goals int foreign key references goals(id_goals)not null,
+id_type_of_event int foreign key references type_of_event(id_type_of_event)on delete cascade on update cascade not null);
